@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/_UE Projects/Procedural_Biped-5.2/Content/Characters/Logic/BP_Player.uasset",
+				"E:/_UE Projects/Procedural_Biped-5.2/Content/Characters/Logic/ABP_Player.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorResources/FieldNodes/FS_MasterField.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorResources/FieldNodes/FS_AnchorField_Generic.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorResources/FieldNodes/Linear_Force_for_Cloth.uasset",
