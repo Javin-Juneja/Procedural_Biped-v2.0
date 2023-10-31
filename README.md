@@ -1,4 +1,4 @@
-# Procedural_Biped-v-2.0
+# Procedural_Biped-v2.0
 Procedural Biped Animation system, it needs absolutely no animations, just one pose to get started. But more animations can be added to the Animation Blueprint according to requirements.
 
 # Features
