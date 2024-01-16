@@ -7,4 +7,7 @@ Procedural Biped Animation system, it needs absolutely no animations, just one p
 
  # Supported UE versions
  5.2.1 and up
- 
+
+ # Required Plugin 
+ Electronic Nodes 
+P.S.- You can disable it by opening the Uproject file in a notepad
