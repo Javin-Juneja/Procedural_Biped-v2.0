@@ -1,3 +1,10 @@
 Saved/*
 Intermediate/*
 DerivedDataCache/*
+
+*_BuiltData.uasset
+!Build/**/*.ico
+!Build/*/
+Build/*/**
+!Build/*/PakBlacklist*.txt
+Build/*
