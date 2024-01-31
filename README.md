@@ -10,4 +10,12 @@ Procedural Biped Animation system, it needs absolutely no animations, just one p
 
  # Required Plugin 
  Electronic Nodes 
-P.S.- You can disable it by opening the .uproject file in a notepad
+P.S.- You can disable it by opening the Procedural_Biped-5.2.uproject file in a notepad and removing this code snippet-
+```
+,
+		{
+			"Name": "ElectronicNodes",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5cb2a394d0c04e73891762be4cbd7216"
+		}
+```
