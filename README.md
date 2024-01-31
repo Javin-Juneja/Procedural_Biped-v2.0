@@ -9,7 +9,7 @@ Procedural Biped Animation system, it needs absolutely no animations, just one p
  5.2.1 and up
 
  # Required Plugin 
- Electronic Nodes 
+ Electronic Nodes, 
 P.S.- You can disable it by opening the Procedural_Biped-5.2.uproject file in a notepad and removing this code snippet-
 ```
 ,
